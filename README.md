@@ -3,7 +3,7 @@ Ever gone on vacation only to find that you packed sweatpants, boots but no jean
 
 **Link to project:**
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](https://images.unsplash.com/photo-1522199710521-72d69614c702?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1052&q=80)
 
 ## How It's Made:
 
